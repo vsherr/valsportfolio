@@ -8,8 +8,8 @@ sections:
   path: src/pages
   label: Pages
   create: all
-  match: "**/*"
-  new_doc_ext: ".vue"
+  match: "**/*.vue"
+  new_doc_ext: vue
 - type: directory
   path: projects
   label: Projects
